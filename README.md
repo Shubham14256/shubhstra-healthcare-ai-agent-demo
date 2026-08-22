@@ -1,5 +1,5 @@
 # 🏥 Shubhstra Healthcare AI Agent & WhatsApp CRM
-**Autonomous Patient Management **
+**Autonomous Patient Management  Platform**
 
 > 🔒 **PROPRIETARY SHOWCASE NOTICE**
 > This repository serves as an architectural showcase and technical documentation for a production-grade AI agent built by **Shubhstra Tech**. The core source code is closed-source and strictly proprietary, as it is actively deployed for live US Healthcare clients and processes sensitive data.
